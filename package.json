@@ -1,0 +1,27 @@
+{
+  "name": "Automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amerrnath.murugan@edgeverve.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+		"gulp-clean": "^0.3.0",
+		"gulp-if": "^2.0.0",
+		"gulp-useref": "^2.0.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.5",
+    "wiredep": "^2.2.2"
+  }
+}
